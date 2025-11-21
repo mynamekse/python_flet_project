@@ -28,7 +28,7 @@ uv pip install -r requirements.txt
 To run the application:
 
 ```bash
-uv run main.py
+uv run src/main.py
 ```
 
 ## Managing Dependencies
